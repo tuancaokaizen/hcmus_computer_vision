@@ -23,6 +23,7 @@ Không CNN, không embedding học sâu, không ArcFace.
 
 ```bash
 git clone https://github.com/tuancaokaizen/hcmus_computer_vision.git
+cd hcmus_computer_vision
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
