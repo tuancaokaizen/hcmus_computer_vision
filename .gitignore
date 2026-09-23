@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+.python-version
+
+# Extra sklearn cache only / chỉ cache sklearn phụ
+data/scikit_learn_data/
+
+# Trained binaries / file mô hình đã train
+results/models/
+results/.mplconfig/
+
+# Local ACL report (PDF/aux/TeX) / Báo cáo ACL local
+documents/
