@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Pretrained weights + matplotlib cache / Trọng số pretrained + cache matplotlib
+.cache/
+
+# Trained binaries / file mô hình đã train
+results/models/
+
+# Local ACL report (PDF/aux/TeX) / Báo cáo ACL local
+documents/
